@@ -1,0 +1,5 @@
+-  Hola, soy Jorge-Zea
+-  Soy un estudiante de ingenieria de sistemas
+-  Estoy interesado en aprender programacion
+-  Apenas estoy empezando la carrera, pero estoy muy entuciasmado y motivado a aprender
+-  
